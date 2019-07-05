@@ -2,6 +2,10 @@
 
 This was our semester-long project for Machine Learning for Cities course by Daniel Neill at NYU CUSP. Team members: [Cyrus Blankinship](https://github.com/cyrusblankinship), [Sam Burns](https://github.com/seeess1), [Max Brueckner-Humphreys](https://github.com/mbh329), and [Pablo Mandiola](https://github.com/pmandiola)
 
+<p align="center">
+  <img src="images/dbscan.PNG" width="400">
+</p>
+
 ## Problem: Identifying and predicting boiler defects in NYC through exploratory analysis and machine learning modeling
 
 The goal of the project is an exploratory analysis of boiler defect detection within New York City with the aim of predicting defects by  geographies and building types, to aide the DOB in their inspection process. With a targeted geography in mind, DOB inspectors can better pinpoint where issues might arise and allocate resources to these areas. By including ACS data, we also aimed to identify certain demographic features that might be more prone to building neglect.
